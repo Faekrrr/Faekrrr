@@ -1,8 +1,4 @@
-# .NET; Blazor; C#; Python; FastApi; IoT; Tensorflow; AWS;
-## MSSQL; MySQL; PostGreSQL; InfluxDB;
-### Business management applications; IoT Applications;
-
-Looking for innovative projects in the newest techs<br>
+Just a readme
 
 <!---
 Faekrrr/Faekrrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
